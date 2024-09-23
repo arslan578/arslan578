@@ -58,14 +58,16 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25181517/297664473-1275d076-f047-432b-9084-308f88f8c176.png" width="8%" />
 </p>
 
-### Databases
-<p align="left">
+<div style="display: flex; align-items: center;">
+  <b style="font-size: 20px; margin-right: 10px;">Database:</b>
+  <p style="margin: 0;">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases" />
   <img src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" width="8%" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="8%" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" width="8%" />
   <img src="https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png" width="8%" />
-</p>
+  </p>
+</div>
 
 ### DevOps & Cloud
 <p align="left">
