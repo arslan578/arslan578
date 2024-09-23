@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm a Sr. Full Stack Developer & Cybersecurity Engineer</h1>
 <h3 align="center">A passionate Full Stack Developer & Cybersecurity Engineer from the UK</h3>
 
+
+
 <p align="center">
   <img src="https://img.shields.io/badge/Experience-9%2B%20years-blue" alt="Experience Badge" />
   <img src="https://img.shields.io/badge/Specialty-Full%20Stack%20Development-brightgreen" alt="Specialty Badge" />
@@ -19,6 +21,8 @@
 
 ---
 
+<img alt="Coder GIF" align="right" height=250 width=350 src="programming_gif.gif" />
+
 
 ### 🌟 About Me
 
@@ -26,7 +30,7 @@
 - 👯 I have worked with [Pointlaz](https://www.pointlaz.com/en)
 - 👨‍💻 All of my projects are available at [arslan.com](https://arslan.com)
 - 📝 I regularly write articles on [blog.com](https://blog.com)
-- 💬 Ask me about **Web Development, IoT, Mobile Development, Cybersecurity, DevOps**
+- 💬 Ask me about anything
 - 📫 How to reach me: **arslanzaheer977@gmail.com**
 - 📄 Know about my experiences: [Resume](https://resume.com)
 - ⚡ Fun fact: **I think I am a Programming Doctor**
