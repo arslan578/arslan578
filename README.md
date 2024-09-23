@@ -78,7 +78,6 @@
 
 ## Mobile Development
 <p align="left">
-  <!-- React Native -->
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
 </p>
 
