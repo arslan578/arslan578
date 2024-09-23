@@ -28,7 +28,7 @@
 
 - 🔭 I’m currently working at [Bodytrak](https://bodytrak.co/)
 - 👯 I have worked with [Pointlaz](https://www.pointlaz.com/en)
-- 👨‍💻 All of my projects are available at [arslan.com](https://arslan.com)
+- 👨‍💻 All of my projects are available at [arslan.com](https://arslan-zaheer.com)
 - 📝 I regularly write articles on [blog.com](https://blog.com)
 - 💬 Ask me about anything [Q&A](https://github.com/arslan578/arslan578-QA/issues)
 - 📫 How to reach me: **arslanzaheer977@gmail.com**
