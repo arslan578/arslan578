@@ -40,10 +40,14 @@
 
 ## 🛠️ Skills
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,nodejs" alt="Programming Languages" />
-</p>
+<div style="display: flex; align-items: center;">
+  <b style="font-size: 20px; margin-right: 10px;">Programming Languages:</b>
+  <p style="margin: 0;">
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" />
+    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+  </p>
+</div>
 
 ### Frontend Development
 <p align="left">
@@ -204,13 +208,6 @@
 
 ---
 
-<div style="display: flex; align-items: center;">
-  <b style="font-size: 20px; margin-right: 10px;">Programming Languages:</b>
-  <p style="margin: 0;">
-    <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
-    <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" />
-    <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
-  </p>
-</div>
+
 
 
