@@ -45,10 +45,19 @@
   <img src="https://skillicons.dev/icons?i=python,go,nodejs" alt="Programming Languages" />
 </p>
 
-### Web Development
+### Frontend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,sass,tailwind" alt="Frontend Development Skills" />
+</p>
+
+
+### Backend Development
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,ruby,graphql" alt="Backend Development Skills" />
+</p>
+
+### Backend API Communication Tools
+<p align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="8%" />
   <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="8%" />
   <img src="https://user-images.githubusercontent.com/25181517/192107856-aa92c8b1-b615-47c3-9141-ed0d29a90239.png" width="8%" />
@@ -58,16 +67,14 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25181517/297664473-1275d076-f047-432b-9084-308f88f8c176.png" width="8%" />
 </p>
 
-<div style="display: flex; align-items: center;">
-  <b style="font-size: 20px; margin-right: 10px;">Database:</b>
-  <p style="margin: 0;">
+### Databases
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases" />
   <img src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" width="8%" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/3c698a4f-84e4-4849-a900-476b14311634" width="8%" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/ef235485-5e32-4d25-8c49-5dbe77e50f3e" width="8%" />
   <img src="https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png" width="8%" />
-  </p>
-</div>
+</p>
 
 ### DevOps & Cloud
 <p align="left">
