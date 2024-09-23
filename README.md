@@ -24,7 +24,7 @@
 <img alt="Coder GIF" align="right" height=250 width=350 src="programming_gif.gif" />
 
 
-### 🌟 About Me
+#### 🌟 About Me
 
 - 🔭 I’m currently working on [Bodytrak](https://bodytrak.co/)
 - 👯 I have worked with [Pointlaz](https://www.pointlaz.com/en)
@@ -38,25 +38,21 @@
 ---
 
 
-### 💻 Technologies & Tools:
+## 💻 Technologies & Tools:
 
-<br>
-
-## 🛠️ Skills
-
-### Programming Languages
+#### Programming Languages
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,go,nodejs" alt="Programming Languages" />
 </p>
 
-### Frontend Development & Mobile Development
+#### Frontend Development & Mobile Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,sass,tailwind" alt="Frontend Development Skills" />
   <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
 </p>
 
 
-### Backend Development
+#### Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,ruby,graphql" alt="Backend Development Skills" />
   <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="React Native" width="40" height="40"/>
@@ -64,7 +60,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="React Native" width="40" height="40"/>
 </p>
 
-### Backend API Communication Tools
+#### Backend API Communication Tools
 <p align="left">
   <img src="https://user-images.githubusercontent.com/25181517/192107854-765620d7-f909-4953-a6da-36e1ef69eea6.png" width="6%" />
   <img src="https://user-images.githubusercontent.com/25181517/187070862-03888f18-2e63-4332-95fb-3ba4f2708e59.png" width="6%" />
@@ -75,7 +71,7 @@
   <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/25181517/297664473-1275d076-f047-432b-9084-308f88f8c176.png" width="6%" />
 </p>
 
-### Databases
+#### Databases
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases" />
   <img src="https://user-images.githubusercontent.com/25181517/183893668-d45b89f9-bd9f-4143-b61a-7db9ac6bbd5e.png" width="6%" />
@@ -84,7 +80,7 @@
   <img src="https://user-images.githubusercontent.com/25181517/188324073-16ec2fcc-e7d5-401a-9dbf-7c26f23c325f.png" width="6%" />
 </p>
 
-### DevOps & Cloud
+#### DevOps & Cloud
 <p align="left">
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins" alt="DevOps & Cloud" />
 
@@ -97,7 +93,7 @@
 </p>
 
 
-### Internet of Things (IoT) & Blockchain
+#### Internet of Things (IoT) & Blockchain
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT Skills" />
   <img src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b" width="6%" />
@@ -106,7 +102,7 @@
   <img src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" width="6%" />
 </p>
 
-### Artificial Intelligence & Analytics & Data Engineering
+#### Artificial Intelligence & Analytics & Data Engineering
 <p align="left">
 <img src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" width="6%">
 <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" width="12%">
@@ -119,12 +115,12 @@
 </p>
 
 
-### Version Control & Miscellaneous
+#### Version Control & Miscellaneous
 <p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version Control & Miscellaneous" />
 </p>
 
-### Operating system & Coding Tools
+#### Operating system & Coding Tools
 
 <p align="left">
   <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="6%" />
@@ -149,7 +145,7 @@
 ---
 <br>
 
-### 🚀 GitHub Stats
+#### 🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan578&theme=radical" alt="GitHub Streak" width="100%" />
@@ -160,7 +156,7 @@
 ---
 <br>
 
-### Languages and Repository Stats
+#### Languages and Repository Stats
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arslan578&theme=radical" alt="Most Used Languages" width="100%" />
 </p>
@@ -171,7 +167,7 @@
 <br>
 
 
-### 📈 Contribution Graph
+#### 📈 Contribution Graph
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=arslan578&theme=react-dark" alt="Contribution Graph" />
