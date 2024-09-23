@@ -23,8 +23,8 @@
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="programming_gif.gif" />
 
-<br />
-#### 🌟 About Me
+
+## 🌟 About Me
 
 - 🔭 I’m currently working at [Bodytrak](https://bodytrak.co/)
 - 👯 I have worked with [Pointlaz](https://www.pointlaz.com/en)
