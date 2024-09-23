@@ -23,10 +23,10 @@
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="programming_gif.gif" />
 
-
+<br />
 #### 🌟 About Me
 
-- 🔭 I’m currently working on [Bodytrak](https://bodytrak.co/)
+- 🔭 I’m currently working at [Bodytrak](https://bodytrak.co/)
 - 👯 I have worked with [Pointlaz](https://www.pointlaz.com/en)
 - 👨‍💻 All of my projects are available at [arslan.com](https://arslan.com)
 - 📝 I regularly write articles on [blog.com](https://blog.com)
