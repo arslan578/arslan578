@@ -19,8 +19,6 @@
 
 ---
 
-![GitHub Contribution Snake](https://github.com/arslan578/arslan578/blob/output/github-contribution-grid-snake.svg)
-
 
 ### 🌟 About Me
 
@@ -40,79 +38,55 @@
 
 <br>
 
-#### Frontend Development:
-<p align="left">
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-</p>
-<br>
+## 🛠️ Skills
 
-#### Backend Development:
-
+### Programming Languages
 <p align="left">
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> 
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=python,go,js,nodejs,ruby" alt="Programming Languages" />
 </p>
 
-<br>
-
-#### Databases:
+### Frontend Development
 <p align="left">
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a>
-  <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,sass,tailwind" alt="Frontend Development Skills" />
 </p>
-<br>
 
-#### DevOps & Cloud:
+
+### Backend Development
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> 
-  </a>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> 
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a>
-  <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> 
-  </a>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,ruby,graphql" alt="Backend Development Skills" />
+</p>
+
+### Databases
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases" />
+</p>
+
+### DevOps & Cloud
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,gcp,azure,heroku,jenkins" alt="DevOps & Cloud" />
+</p>
+
+### Internet of Things (IoT)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT Skills" />
+</p>
+
+### Blockchain
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=solidity,ethereum" alt="Blockchain Skills" />
+</p>
+
+## Mobile Development
+<p align="left">
+  <!-- React Native -->
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
+</p>
+
+
+### Version Control & Miscellaneous
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab,photoshop,vscode" alt="Version Control & Miscellaneous" />
+</p>
 
 <br>
 <br>
@@ -127,11 +101,11 @@
 
 
 
-### 📊 Most Used Languages
-
+### Languages and Repository Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arslan578&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=arslan578&theme=radical" alt="Most Used Languages" width="100%" />
 </p>
+
 
 ### 📈 Contribution Graph
 
