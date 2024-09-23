@@ -19,6 +19,9 @@
 
 ---
 
+![GitHub Contribution Snake](https://github.com/arslan578/arslan578/blob/output/github-contribution-grid-snake.svg)
+
+
 ### 🌟 About Me
 
 - 🔭 I’m currently working on [Bodytrak](https://bodytrak.co/)
