@@ -40,20 +40,41 @@
 
 ## 🛠️ Skills
 
-### Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,go,nodejs" alt="Programming Languages" />
-</p>
+<div>
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <b style="font-size: 20px;">Programming Languages:</b>
+      </td>
+      <td style="border: none;">
+        <img src="https://skillicons.dev/icons?i=python" alt="Python" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=go" alt="Go" width="40" height="40" />
+        <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" width="40" height="40" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div>
+  <table style="border-collapse: collapse; border: none;">
+    <tr>
+      <td style="border: none;">
+        <b style="font-size: 20px;">Frontend Development:</b>
+      </td>
+      <td style="border: none;">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,sass,tailwind" alt="Frontend Development Skills" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,ruby,graphql" alt="Backend Development Skills" />
+      </td>
+    </tr>
+  </table>
+</div>
+ 
+
+
 
 ### Frontend Development
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,sass,tailwind" alt="Frontend Development Skills" />
-</p>
-
-
-### Backend Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,ruby,graphql" alt="Backend Development Skills" />
+  
 </p>
 
 ### Backend API Communication Tools
@@ -208,5 +229,7 @@
 </p>
 
 ---
+
+
 
 
