@@ -119,8 +119,9 @@
 ### 🚀 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arslan578&show_icons=true&theme=radical" alt="Arslan's GitHub Stats" width="48%" height="200px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan578&theme=radical" alt="GitHub Streak" width="48%" height="200px" />
+
+[//]: # (  <img src="https://github-readme-stats.vercel.app/api?username=arslan578&show_icons=true&theme=radical" alt="Arslan's GitHub Stats" width="48%" height="200px" />)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=arslan578&theme=radical" alt="GitHub Streak" />
 </p>
 
 
