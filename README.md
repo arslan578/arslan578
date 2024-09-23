@@ -45,15 +45,19 @@
   <img src="https://skillicons.dev/icons?i=python,go,nodejs" alt="Programming Languages" />
 </p>
 
-### Frontend Development
+### Frontend Development & Mobile Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,angular,vue,bootstrap,sass,tailwind" alt="Frontend Development Skills" />
+  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
 </p>
 
 
 ### Backend Development
 <p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask,ruby,graphql" alt="Backend Development Skills" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="React Native" width="40" height="40"/>
+  <img src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/31e58ce4-0a61-400c-8c5c-0ddeece36f7f" alt="React Native" width="40" height="40"/>
+  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="React Native" width="40" height="40"/>
 </p>
 
 ### Backend API Communication Tools
@@ -89,66 +93,26 @@
 </p>
 
 
-### Internet of Things (IoT)
+### Internet of Things (IoT) & Blockchain
 <p align="left">
   <img src="https://skillicons.dev/icons?i=arduino,raspberrypi" alt="IoT Skills" />
-</p>
-
-### Blockchain
-<p align="left">
   <img src="https://github.com/user-attachments/assets/972354d0-4964-48b6-8608-6ca4a4a7326b" width="10%" />
   <img src="https://github.com/user-attachments/assets/defd27bb-00c3-4b04-8640-cb184bacb397" width="10%" />
   <img src="https://github.com/user-attachments/assets/4ebe4430-a141-4fc5-9ddd-dc5b439177b6" width="10%" />
   <img src="https://github.com/user-attachments/assets/eb979871-1d57-4ea7-b8af-bfb1165a2979" width="10%" />
 </p>
 
-### Analytics
+### Artificial Intelligence & Analytics & Data Engineering
 <p align="left">
 <img src="https://user-images.githubusercontent.com/25181517/183569191-f32cdf03-673f-4ae3-809b-3a8b376bb8a2.png" width="8%">
 <img src="https://user-images.githubusercontent.com/25181517/184357834-eba1eee1-6074-4b9c-8ed3-5373868096cc.png" width="12%">
 <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" width="8%">
-</p>
-
-### Artificial Intelligence
-<p>
 <img src="https://user-images.githubusercontent.com/25181517/223639822-2a01e63a-a7f9-4a39-8930-61431541bc06.png" width="8%">
-</p>
 
-### Data Engineering
-<p>
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/24b02d77-2f28-43c7-b5d6-e15e3395851b" width="8%" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/76012086/4ec200c2-acdf-4c42-b419-cd49cba3d09f" width="8%" >
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/c7f2fa08-bb92-4898-a73e-b206be6bd573" width="8%" >
 </p>
-
-### Mobile Development
-<p align="left">
-  <img src="https://cdn.worldvectorlogo.com/logos/react-native-1.svg" alt="React Native" width="40" height="40"/>
-</p>
-
-### Testing
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/25181517/184103699-d1b83c07-2d83-4d99-9a1e-83bd89e08117.png" alt="React Native" width="40" height="40"/>
-</p>
-
-### MQTT technologies
-
-<p align="left">
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="React Native" width="40" height="40"/>
-  <img src="https://github.com/Ramonmelod/profile-technology-icons/assets/139141993/31e58ce4-0a61-400c-8c5c-0ddeece36f7f" alt="React Native" width="40" height="40"/>
-</p>
-
-### Operating system
-
-<p align="left">
-  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="8%" />
-  <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" width="8%" />
-  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="8%" />
-  <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="8%" />
-  <img src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" width="10%"  />
-</p>
-
 
 
 ### Version Control & Miscellaneous
@@ -156,12 +120,14 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab,bitbucket" alt="Version Control & Miscellaneous" />
 </p>
 
-
-
-
-### Tools
+### Operating system & Coding Tools
 
 <p align="left">
+  <img src="https://user-images.githubusercontent.com/25181517/186884150-05e9ff6d-340e-4802-9533-2c3f02363ee3.png" width="8%" />
+  <img src="https://user-images.githubusercontent.com/25181517/186884152-ae609cca-8cf1-4175-8d60-1ce1fa078ca2.png" width="8%" />
+  <img src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" width="8%" />
+  <img src="https://user-images.githubusercontent.com/25181517/186884153-99edc188-e4aa-4c84-91b0-e2df260ebc33.png" width="8%" />
+  <img src="https://github.com/user-attachments/assets/4cf282d2-b46f-43b7-aab6-19604cc5a683" width="10%"  />
   <img src="https://user-images.githubusercontent.com/25181517/192108893-b1eed3c7-b2c4-4e1c-9e9f-c7e83637b33d.png" width="8%"/>
   <img src="https://user-images.githubusercontent.com/25181517/192108889-232b3431-a585-4b36-a62d-9078bd3641d9.png" width="8%"/>
   <img src="https://user-images.githubusercontent.com/25181517/186711571-ad08f891-085a-4dad-b4d9-95310b3c8ad9.png" width="8%"/>
