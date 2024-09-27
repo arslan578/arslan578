@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Sr. Full Stack Developer & Cybersecurity Engineer</h1>
-<h3 align="center">A passionate Full Stack Developer & Cybersecurity Engineer from the UK</h3>
+<h3 align="center">A passionate Full Stack Developer & Cybersecurity Engineer</h3>
 
 
 
