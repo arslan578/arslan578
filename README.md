@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm a Sr. Full Stack Developer & Cybersecurity Engineer</h1>
-<h3 align="center">A passionate Full Stack Developer & Cybersecurity Engineer from the UK</h3>
+<h3 align="center">A passionate Full Stack Developer & Cybersecurity Engineer</h3>
 
 
 
@@ -23,14 +23,14 @@
 
 <img alt="Coder GIF" align="right" height=250 width=350 src="programming_gif.gif" />
 
-
+ 
 ## 🌟 About Me
 
 - 🔭 I’m currently working at [Bodytrak](https://bodytrak.co/)
 - 👯 I have worked with [Pointlaz](https://www.pointlaz.com/en)
-- 👨‍💻 All of my projects are available at [arslan.com](https://arslan-zaheer.com)
+- 👨‍💻 All of my projects are available at [www.arslan-zaheer.com](https://www.arslan-zaheer.com/)
 - 📝 I regularly write articles on [blog.com](https://blog.com)
-- 💬 Ask me about anything [Q&A](https://github.com/arslan578/arslan578-QA/issues)
+- 💬 Ask me about anything [Q&A](https://github.com/arslan578/arslan578-QA/discussions)
 - 📫 How to reach me: **arslanzaheer977@gmail.com**
 - 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1nOlHlC09E-fkd-W3djr4WP0grNezdm3k/view?usp=sharing)
 - ⚡ Fun fact: **I diagnose bugs like a doctor diagnoses patients — with a debugger instead of a stethoscope**
