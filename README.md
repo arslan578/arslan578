@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Experience-9%2B%20years-blue" alt="Experience Badge" />
+  <img src="https://img.shields.io/badge/Experience-8%2B%20years-blue" alt="Experience Badge" />
   <img src="https://img.shields.io/badge/Specialty-Full%20Stack%20Development-brightgreen" alt="Specialty Badge" />
   <img src="https://img.shields.io/badge/Specialty-Cybersecurity-red" alt="Cybersecurity Badge" />
   <img src="https://img.shields.io/badge/Specialty-DevOps-informational" alt="DevOps Badge" />
