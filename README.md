@@ -26,7 +26,7 @@
  
 ## 🌟 About Me
 
-- 🔭 I’m currently working at [Bodytrak](https://bodytrak.co/)
+- 🔭 I have worked with [Bodytrak](https://bodytrak.co/)
 - 👯 I have worked with [Pointlaz](https://www.pointlaz.com/en)
 - 👨‍💻 All of my projects are available at [www.arslan-zaheer.com](https://www.arslan-zaheer.com/)
 - 📝 I regularly write articles on [blog.com](https://blog.com)
