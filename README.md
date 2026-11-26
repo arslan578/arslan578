@@ -30,7 +30,7 @@ I’m an independent consultant based in the UK. I design, build and secure AI s
 
 ## What I do
 
-| | Service | |
+| | Service | More |
 |---|---|---|
 | 🧠 | **AI agents & RAG** — production LLM systems grounded in your data | [Details →](https://arslanzaheer.com/services/ai-agent-development) |
 | 🛡️ | **AI red-teaming & LLM evaluation** — prompt injection, jailbreaks, honest test sets | [Details →](https://arslanzaheer.com/services/ai-red-teaming) |
