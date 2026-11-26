@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-label="Arslan Zaheer, Principal Solutions Architect, AI, Cloud and Security">
+  <defs>
+    <pattern id="g" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#14222E" stroke-width="1"/></pattern>
+  </defs>
+  <rect width="1280" height="340" rx="16" fill="#0B1620"/>
+  <rect width="1280" height="340" rx="16" fill="url(#g)"/>
+  <rect x="64" y="64" width="56" height="4" fill="#3FB68F"/>
+  <text x="64" y="104" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" letter-spacing="3" fill="#3FB68F">INDEPENDENT CONSULTANT · UK · NDA-READY</text>
+  <text x="62" y="186" font-family="Georgia,'Times New Roman',serif" font-size="76" fill="#F1EFE9">Arslan Zaheer</text>
+  <text x="64" y="236" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="28" fill="#F1EFE9">Principal Solutions Architect · AI, Cloud &amp; Security</text>
+  <line x1="64" y1="270" x2="1216" y2="270" stroke="#253543" stroke-width="1"/>
+  <text x="64" y="302" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="16" letter-spacing="2" fill="#9AA7B1">AWS · AZURE · GCP  /  AWS CERTIFIED SA PRO  /  11+ YEARS · 150+ PROJECTS</text>
+  <g transform="translate(1104,64)"><rect width="112" height="112" rx="20" fill="#F1EFE9"/><text x="56" y="72" text-anchor="middle" font-family="Georgia,serif" font-size="48" fill="#0B1620">AZ</text><rect x="34" y="84" width="44" height="5" rx="2" fill="#3FB68F"/></g>
+</svg>
